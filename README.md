@@ -1,4 +1,3 @@
-# database_sytems_project
 	The project is about creating a database that is going to store course information, information of students that take course and information of instructor of courses.
 	
 	The course table contains location of the course, time, pre-requisites of the course, which course/courses it is the prerequisite of, which faculty the course belongs to and instructor.
